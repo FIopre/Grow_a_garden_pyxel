@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\App.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\App.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Pose_fleur.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\Pose_fleur.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Stock.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\Stock.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Fleur.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\Fleur.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fleur.py",
+              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Fleur.py",
+              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\Fleur.py",
+              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Fleur.py",
+              "RelativeToolTip": "Grow_a_garden_pyxel\\Fleur.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-15T19:28:56.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.py",
+              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\App.py",
+              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\App.py",
+              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\App.py*",
+              "RelativeToolTip": "Grow_a_garden_pyxel\\App.py*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-14T11:41:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pose_fleur.py",
+              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Pose_fleur.py",
+              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\Pose_fleur.py",
+              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\Pose_fleur.py",
+              "RelativeToolTip": "Grow_a_garden_pyxel\\Pose_fleur.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-14T11:44:26.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock.py",
+              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\stock.py",
+              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\stock.py",
+              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\Grow_a_garden_pyxel\\Grow_a_garden_pyxel\\stock.py",
+              "RelativeToolTip": "Grow_a_garden_pyxel\\stock.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-14T12:45:59.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
