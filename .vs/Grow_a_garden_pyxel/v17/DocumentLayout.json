@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\fleurs.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\fleurs.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\shop.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\shop.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\Stock.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\Stock.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\hud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\hud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\App.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{EDD4C7C2-4E30-45F4-9CA4-0987F29EA7A1}|Grow_a_garden_pyxel\\Grow_a_garden_pyxel.pyproj|solutionrelative:Grow_a_garden_pyxel\\App.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "App.py",
               "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\App.py",
               "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\App.py",
               "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\App.py",
               "RelativeToolTip": "Grow_a_garden_pyxel\\App.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-11-14T11:41:54.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "hud.py",
-              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\hud.py",
-              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\hud.py",
-              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\hud.py",
-              "RelativeToolTip": "Grow_a_garden_pyxel\\hud.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-18T16:37:27.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stock.py",
-              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\stock.py",
-              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\stock.py",
-              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\stock.py",
-              "RelativeToolTip": "Grow_a_garden_pyxel\\stock.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-14T12:45:59.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "shop.py",
-              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\shop.py",
-              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\shop.py",
-              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\shop.py",
-              "RelativeToolTip": "Grow_a_garden_pyxel\\shop.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-17T20:03:37.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fleurs.py",
-              "DocumentMoniker": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\fleurs.py",
-              "RelativeDocumentMoniker": "Grow_a_garden_pyxel\\fleurs.py",
-              "ToolTip": "C:\\Users\\E1504EA\\Documents\\Pyxel\\pyxel\\Grow_a_garden_pyxel\\fleurs.py",
-              "RelativeToolTip": "Grow_a_garden_pyxel\\fleurs.py",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-15T19:28:56.711Z",
               "EditorCaption": ""
             }
           ]
